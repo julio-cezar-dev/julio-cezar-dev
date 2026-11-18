@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**julio-cezar-dev/julio-cezar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Julio Diniz! 👋
 
-Here are some ideas to get you started:
+I'm a Web Development student passionate about building web applications and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React.js
+
+### 🚀 Projects
+
+- **SyntaxWear** – A web development project.
+- **GitHub Profile Viewer** – An application for viewing GitHub profiles.
+
+### 📚 Currently Learning
+
+- Back-end Development
+
+I'm constantly learning and looking forward to building more complex projects and expanding my knowledge as a developer.
